@@ -10,3 +10,6 @@ What you need to know:
   - All the PV data is ultimately aggregated, for me at least, in Tableau. So without aggregation this dataset could get wonky! You've been forewarned!
   - Again, what you find in this repo is a work in progress. Cheers. 
   
+Housekeeping:
+  - Datacrape for PV is for retrieving event data that will later be used to attribute PV to events, players, and teams
+  - Cleaning xy data is for getting the event data cleaned up and applying PV values to said events, as I saw fit
